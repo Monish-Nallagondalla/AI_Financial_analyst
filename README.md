@@ -70,8 +70,11 @@ Launch the playground using playground.py:
 python playground.py
 ```
 1.Open the Phi Data Playground.
+
 2.Select the endpoint option.
+
 3.Set the endpoint to localhost:7777.
+
 4.Use the interactive UI to test the agents.
 
 ---
