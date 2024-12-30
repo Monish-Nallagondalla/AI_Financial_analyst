@@ -105,3 +105,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [DuckDuckGo](https://pypi.org/project/duckduckgo-search/) - For their search API to fetch web results.
 - [Groq AI](https://groq.com) - For providing the Groq AI model that powers financial and web search agents.
 - [OpenAI](https://openai.com) - For providing the GPT models that are utilized for natural language processing tasks.
+
+---
+
+## Caution
+This project is for educational and demonstration purposes only. The information provided by the agents should not be used for making actual financial decisions. Always consult with a professional financial advisor before making any financial or investment decisions.
