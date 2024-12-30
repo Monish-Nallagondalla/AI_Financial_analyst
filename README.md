@@ -44,7 +44,6 @@ Create a .env file in the project root directory with your API keys:
 ```env
 PHI_API_KEY=your_phi_api_key
 GROQ_API_KEY=your_groq_api_key
-OPENAI_API_KEY=your_openai_api_key
 ```
 Replace your_phi_api_key, your_groq_api_key, and your_openai_api_key with your actual API keys.
 
@@ -104,7 +103,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [YFinance](https://pypi.org/project/yfinance/) - For the Python library to access financial data from Yahoo Finance.
 - [DuckDuckGo](https://pypi.org/project/duckduckgo-search/) - For their search API to fetch web results.
 - [Groq AI](https://groq.com) - For providing the Groq AI model that powers financial and web search agents.
-- [OpenAI](https://openai.com) - For providing the GPT models that are utilized for natural language processing tasks.
+
 
 ---
 
